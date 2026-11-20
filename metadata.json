@@ -1,0 +1,6 @@
+{
+  "name": "Satark Live Guard",
+  "description": "Multilingual AI scam tracker and calm voice advisor supporting Hindi, Indian English, Bengali, Marathi, Telugu, and Tamil.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
